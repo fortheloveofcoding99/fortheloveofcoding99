@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fortheloveofcoding99
-- 👀 I’m interested in ...Java, Selenium, SQL, Python, C, html, Javascript, Jenkins, Eclipse
+- 👀 I’m interested in ...Java, Selenium, SQL, Python, C, html, Javascript, Jenkins, Jmeter, Docker and Kubernetes
 - 🌱 I’m currently learning ... mobile testing via Appium
 - 💞️ I’m looking to collaborate on ...working on it
 - 📫 How to reach me ...
